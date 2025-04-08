@@ -1,0 +1,26 @@
+Team Name: IT TECHNOS
+
+## Team Members:
+- Member 1 - Ashwi Porob
+- Member 2 - G. Srividhya
+- Member 3 - Ankita Suttar
+- Member 4 - Himanshu Mishra 
+
+## Problem Statement: 
+*AI-Powered Nutrition and Meal Planning Assistant*
+
+Making healthy food choices can be challenging, especially when trying to understand nutritional value and plan balanced meals with available ingredients. Many consumers struggle with interpreting food labels, and existing solutions often prioritize price over health. While some tools provide basic dietary insights, they fail to offer a seamless way to connect ingredient selection with personalized meal planning. There is a need for a solution that helps individuals assess the nutritional value of food items and make informed decisions based on their health needs. Additionally, leveraging available ingredients to create healthy, well-balanced recipes remains an unmet challenge. The solution should simplify the shopping experience while encouraging healthier eating habits in a way that feels intuitive and accessible.
+
+---
+
+## 🔍 What We Understood from the Problem Statement:
+
+We understand that people face difficulties in making healthy food choices due to the complexity of nutritional information and the lack of simple tools to plan meals based on available ingredients. Our goal is to create an AI-powered assistant that helps users understand food labels, get nutritional information, and plan balanced meals that suit their dietary needs and ingredients they already have.
+
+## 🛠️ Our Approach / How We Plan to Solve It:
+
+1. Users can input or select ingredients they have.
+2. The app will fetch nutritional data using an API.
+3. Based on this data, it will suggest healthy and balanced meals.
+4. Users can get simple recipes and tips for healthy eating.
+5. Optionally, users can track their meal history and preferences.
