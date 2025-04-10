@@ -27,8 +27,7 @@ We understand that the main challenge lies in helping users make healthy food ch
 5. *Smart Shopping Assistant* – Recommends healthy options while shopping and helps build shopping lists.
 6. *User Dashboard* – Tracks nutrition goals, favorite meals, and suggests improvements.
 
-   Tech Stack:
-
+ ##Tech Stack:
 - Frontend: HTML, CSS, JavaScript (Bootstrap)
 - Backend: Python with Flask
 - Database: SQLite
