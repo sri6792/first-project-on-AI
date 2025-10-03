@@ -1,0 +1,5 @@
+{
+  "name": "Calorie Tracker",
+  "description": "An intelligent calorie tracking application that uses AI to analyze your meal descriptions and provide instant calorie estimates.",
+  "requestFramePermissions": []
+}
