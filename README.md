@@ -21,7 +21,7 @@ We understand that the main challenge lies in helping users make healthy food ch
 ## 🛠️ Our Approach / How We Plan to Solve It:
 
 1. *Ingredient Scanning or Input* – Users can input or scan ingredients they have.
-2. *Nutrition Analyzer* – The AI analyzes the nutritional value of each ingredient.
+2. *Nutrition Analyzer* – AI analyzes the nutritional value.
 3. *Personalized Meal Plans* – Based on dietary goals or restrictions, the system suggests balanced meals.
 4. *Recipe Generator* – Creates easy-to-follow, healthy recipes using available ingredients.
 5. *Smart Shopping Assistant* – Recommends healthy options while shopping and helps build shopping lists.
