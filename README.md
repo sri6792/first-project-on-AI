@@ -31,6 +31,10 @@ We understand that the main challenge lies in helping users make healthy food ch
 - Frontend: HTML, CSS, JavaScript (Bootstrap)
 - Backend: Python with Flask
 - Database: SQLite
-- APIs:* Nutritionix API or any open food/nutrition API
+- APIs: google gemini api and Nutritionix API or any open food/nutrition API
 - Tools: GitHub
 
+
+before running the project use npm install 
+set up the .env.local folder to set up api key (for gemini)
+then to run the project use npm run dev
