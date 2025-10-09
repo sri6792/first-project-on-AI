@@ -36,5 +36,5 @@ We understand that the main challenge lies in helping users make healthy food ch
 
 
 before running the project use npm install 
-set up the .env.local folder to set up api key (for gemini)
+set up the .env.local folder ** API_KEY="whatever is the api key" **  to set up api key (for gemini)
 then to run the project use npm run dev
